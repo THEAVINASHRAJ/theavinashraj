@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Launches-30%2B-0ea5e9?style=flat" alt="50+ Launches" />
   <img src="https://img.shields.io/badge/Product%20Demos-150%2B-6366f1?style=flat" alt="250+ Product Demos" />
   <img src="https://img.shields.io/badge/Content-300%2B-ef4444?style=flat" alt="500+ Content Assets" />
-  <img src="https://img.shields.io/badge/Ad%20Spend-$85k%2B%2Fmo-f59e0b?style=flat" alt="$100k+/mo Ad Spend" />
+  <img src="https://img.shields.io/badge/Ad%20Spend-$85k%2B%2Fmo-f59e0b?style=flat" alt="$120k+/mo Ad Spend" />
 </p>
 
 <!-- Profile counter (optional) -->
@@ -60,7 +60,7 @@
 <ul>
   <li>Scaled revenue impact to <strong>$10M+</strong> with 40+ GTM motions across SaaS product lines.</li>
   <li>Built content engines: <strong>400+ assets</strong> including thought leadership, product explainers, and launch kits.</li>
-  <li>Owned paid programs up to <strong>$100k+/month</strong> across Google/Meta/LinkedIn with disciplined CAC/LTV control.</li>
+  <li>Owned paid programs up to <strong>$120k+/month</strong> across Google/Meta/LinkedIn with disciplined CAC/LTV control.</li>
   <li>Shipped and optimized websites (Webflow/WordPress/custom) with CRO frameworks and deep analytics.</li>
 </ul>
 
