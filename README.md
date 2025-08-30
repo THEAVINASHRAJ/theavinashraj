@@ -11,7 +11,7 @@
 <!-- Quick facts / badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Senior%20Marketing%20Manager%20%7C%20Product%20%2B%20Growth-0B5FFF?style=flat" alt="Role: Senior Marketing Manager (Product + Growth)" />
-  <img src="https://img.shields.io/badge/Focus-CMO%20Track%20%7C%20SaaS%20%26%20PLG-FF6B6B?style=flat" alt="Focus: CMO Track | SaaS & PLG" />
+  <img src="https://img.shields.io/badge/Focus-Scale%20%7C%20SaaS%20%26%20PLG-FF6B6B?style=flat" alt="Focus: Scale | SaaS & PLG" />
   <img src="https://img.shields.io/badge/Location-India%20(Remote--Ready)-2ECC71?style=flat" alt="Location: India (Remote-Ready)" />
 </p>
 
