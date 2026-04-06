@@ -76,7 +76,7 @@
 <!-- Links -->
 <h2>Links</h2>
 <p>
-  • Portfolio: <a href="https://sites.google.com/view/theavinashraj/home">sites.google.com/view/theavinashraj/home</a><br/>
+  • Portfolio: <a href="https://sites.google.com/view/theavinashraj/home">https://avinashraj.netlify.app/</a><br/>
   • LinkedIn: <a href="https://linkedin.com/in/theavinashraj">linkedin.com/in/theavinashraj</a><br/>
   • YouTube: <a href="https://www.youtube.com/c/theavinashraj5">youtube.com/c/theavinashraj5</a><br/>
   • Medium: <a href="https://medium.com/@theavinashraj">medium.com/@theavinashraj</a><br/>
