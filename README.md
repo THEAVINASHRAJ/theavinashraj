@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/theavinashraj">LinkedIn</a> •
   <a href="https://sites.google.com/view/theavinashraj/home">Portfolio</a> •
-  <a href="mailto:imtheavinashraj@gmail.com">Email</a>
+  <a href="mailto:avinashiitpatna@gmail.com">Email</a>
 </p>
 
 <!-- Quick facts / badges -->
