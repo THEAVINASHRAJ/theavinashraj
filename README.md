@@ -4,7 +4,7 @@
 <h3 align="center">Chief Marketing Officer (Full-Stack Marketer) — Growth, Product & Web</h3>
 <p align="center">
   <a href="https://linkedin.com/in/theavinashraj">LinkedIn</a> •
-  <a href="https://sites.google.com/view/theavinashraj/home">Portfolio</a> •
+  <a href="https://avinashraj.netlify.app">Portfolio</a> •
   <a href="mailto:avinashiitpatna@gmail.com">Email</a>
 </p>
 
