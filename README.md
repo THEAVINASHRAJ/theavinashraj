@@ -17,11 +17,11 @@
 
 <!-- Impact metrics -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Revenue-$10M%2B-22c55e?style=flat" alt="$10M+ Revenue" />
-  <img src="https://img.shields.io/badge/Launches-30%2B-0ea5e9?style=flat" alt="50+ Launches" />
-  <img src="https://img.shields.io/badge/Product%20Demos-150%2B-6366f1?style=flat" alt="250+ Product Demos" />
-  <img src="https://img.shields.io/badge/Content-300%2B-ef4444?style=flat" alt="500+ Content Assets" />
-  <img src="https://img.shields.io/badge/Ad%20Spend-$85k%2B%2Fmo-f59e0b?style=flat" alt="$120k+/mo Ad Spend" />
+  <img src="https://img.shields.io/badge/Revenue-$100M%2B-22c55e?style=flat" alt="$100M+ Revenue" />
+  <img src="https://img.shields.io/badge/Launches-50%2B-0ea5e9?style=flat" alt="50+ Launches" />
+  <img src="https://img.shields.io/badge/Product%20Demos-250%2B-6366f1?style=flat" alt="250+ Product Demos" />
+  <img src="https://img.shields.io/badge/Content-500%2B-ef4444?style=flat" alt="500+ Content Assets" />
+  <img src="https://img.shields.io/badge/Ad%20Spend-$125k%2B%2Fmo-f59e0b?style=flat" alt="$125k+/mo Ad Spend" />
 </p>
 
 <!-- Profile counter (optional) -->
@@ -52,7 +52,7 @@
 <ul>
   <li><strong>Senior Marketing Manager (Product & Growth), ScanPay</strong> — Owns GTM, demand gen, website, and revenue analytics for a U.S. fintech serving home-service pros.</li>
   <li><strong>Marketing Manager, Zuper</strong> — 30+ launches, 150+ product demos, PLG motion enablement, and multi-channel growth programs.</li>
-  <li><strong>Growth Marketer, JungleWorks</strong> — SEO, Onboarding innovation, zero-touch funnels, $7M monthly sales from $85k ad spent, and product-led experimentation.</li>
+  <li><strong>Growth Marketer, JungleWorks</strong> — SEO, Onboarding innovation, zero-touch funnels, $7M monthly sales from $100k ad spent, and product-led experimentation.</li>
 </ul>
 
 <!-- Selected highlights -->
